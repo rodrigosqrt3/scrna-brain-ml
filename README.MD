@@ -25,6 +25,6 @@ Detailed performance metrics, confusion matrices, and feature importance analyse
 
 The script was developed using R (version 4.3.0). Main package dependencies include:
 
-* **Bioconductor:** `scRNAseq`, `SingleCellExperiment`
-* **Modeling:** `xgboost`, `randomForest`, `e1071`, `caret`, `mclust`, `kernlab`, `vegan`, `aricode`, `cluster`
-* **Visualization:** `tidyverse`, `pheatmap`, `Rtsne`, `umap`, `igraph`, `pROC`, `dendextend`, `gridExtra`
+* Bioconductor: `scRNAseq`, `SingleCellExperiment`
+* Modeling: `xgboost`, `randomForest`, `e1071`, `caret`, `mclust`, `kernlab`, `vegan`, `aricode`, `cluster`
+* Visualization: `tidyverse`, `pheatmap`, `Rtsne`, `umap`, `igraph`, `pROC`, `dendextend`, `gridExtra`
